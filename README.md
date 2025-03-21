@@ -10,4 +10,6 @@ HTML
 
 CSS
 
+Eslint
+
 Git

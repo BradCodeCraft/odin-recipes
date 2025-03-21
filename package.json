@@ -1,0 +1,26 @@
+{
+  "name": "odin-recipes",
+  "version": "1.0.0",
+  "description": "Simple recipes front end page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradCodeCraft/odin-recipes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BradCodeCraft/odin-recipes/issues"
+  },
+  "homepage": "https://github.com/BradCodeCraft/odin-recipes#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.23.0",
+    "eslint": "^9.23.0",
+    "globals": "^16.0.0"
+  }
+}

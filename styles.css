@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  padding: 10px 20px;
+  min-height: 100vh;
+  background-color: #101828;
+  color: #ffffff;
+  font-family: "Helvatica", "Times New Roman", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+}
+
+h1 {
+  margin-bottom: 15px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+
+img {
+  margin: 10px 0;
+}
+
+.home-page-img {
+  margin-top: 0;
+}
+
+.recipes-list {
+  padding: 0 20px;
+  list-style-type: none;
+}
+
+.recipes-list>li {
+  margin-top: 20px;
+}
+
+.recipes-list>li>a,
+.home-link {
+  text-decoration: none;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  padding: 5px;
+}
+
+/* .home-link { */
+/*   display: inline-block; */
+/*   margin-top: 15px; */
+/* } */
+
+.recipe-title {
+  margin-top: 10px;
+}
+
+.step-container {
+  margin-bottom: 15px;
+}
+
+.nutrition-container>h2,
+.nutrition-container>p {
+  display: inline;
+}
